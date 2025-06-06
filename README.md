@@ -55,9 +55,3 @@
   </a>
 </div>
 
-
-  <details>
-    <summary>More Stats</summary>
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-  </details>
-</div>
