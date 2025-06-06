@@ -3,10 +3,6 @@
 <img src="https://github.com/magico250/magico250/blob/main/images/hello_from_magico.gif" alt="Hello from Magico" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-![Profile Views](https://komarev.com/ghpvc/?username=magico250&style=flat&color=orange&label=PROFILE+VIEWS)
-
-</div>
----
 <h1>Abdallah Magico</h1>
 <h3>🐍🐘 Backend Developer | 💻🖧 System Administrator | 🕵️‍♂️ Digital Forensics Researcher | 🕹️CTF Player</h3>
 
@@ -15,6 +11,11 @@
 <p>Passionate Digital Forensics Researcher and CTF Player with a strong background in solving complex challenges and conducting in-depth investigations.</p>
 <p>Dedicated trainer and mentor, having trained over 300 individuals in smart agriculture and programming fundamentals as a Co-cordinator in the FA Model Developers 2024 program.
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=magico250&style=flat&color=orange&label=PROFILE+VIEWS)
+
+</div>
+
 ---
 
 ## 🚀 Programming Languages
