@@ -8,7 +8,7 @@
 
 </div>
 ---
-## Abdallah Magico
+<h1>Abdallah Magico</h1>
 ---
 
 ## 🚀 Programming Languages
