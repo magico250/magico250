@@ -8,6 +8,13 @@
 </div>
 ---
 <h1>Abdallah Magico</h1>
+<h3>🐍🐘 Backend Developer | 💻🖧 System Administrator | 🕵️‍♂️ Digital Forensics Researcher | 🕹️CTF Player</h3>
+
+<p>Backend Developer with over 5 years of experience in designing, developing, and maintaining scalable backend systems.</p>
+<p>Skilled System Administrator with 2 years of experience managing and optimizing Linux-based server environments.</p>
+<p>Passionate Digital Forensics Researcher and CTF Player with a strong background in solving complex challenges and conducting in-depth investigations.</p>
+<p>Dedicated trainer and mentor, having trained over 300 individuals in smart agriculture and programming fundamentals as a Co-cordinator in the FA Model Developers 2024 program.
+</p>
 ---
 
 ## 🚀 Programming Languages
